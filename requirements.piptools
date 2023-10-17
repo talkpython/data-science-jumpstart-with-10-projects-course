@@ -1,0 +1,14 @@
+dash
+hyperopt
+matplotlib
+notebook
+openpyxl
+pandas
+plotly
+pyarrow
+pytz
+scikit-learn
+spacy
+SQLAlchemy
+xgboost
+XlsxWriter

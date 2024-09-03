@@ -1,5 +1,5 @@
 # Data Science Jumpstart with 10 Projects Course
-[![](./reamde_resources/data-sci-jumpstart.webp)](https://training.talkpython.fm/courses/data-science-jumpstart-with-10-projects)
+[![](./readme_resources/data-sci-jumpstart.webp)](https://training.talkpython.fm/courses/data-science-jumpstart-with-10-projects)
 
 
 ## Instructions
